@@ -1,9 +1,13 @@
+## THIS IS AN IMPLEMENTATION FOR THE SPANISH LANGUAGE
+
 # hua_kii ICLDC 2021
 Hua Ki'i static website version for ICLDC 2021
 
 ## Click here for the demo: [huakii.indigenousai.dev](https://huakii.indigenousai.dev)
 
-Welcome to the Hua Ki'i AI Prototype App! This is a quick tutorial on how to get started on your very own AI application. There are two methods to create your own, an easy quick start method and a better more advanced method outlined below:
+Welcome to the Hua Ki'i AI Prototype App! This is a quick tutorial on how to get started on your very own AI application. There are two methods to create your own, an easy quick 
+
+start method and a better more advanced method outlined below:
 
 ## Easy: Remix Hua Ki'i on Glitch.com
 
